@@ -5,11 +5,13 @@ function printLogin()
 
   echo "<section>
 
-    <h1>TITULO DEL EJERCICIO</h1>
+  <h1>TITULO DEL EJERCICIO</h1>
 
   <form action='' method='post'>
 
     <label for=''>user</label>
+    <br/>
+    <br/>
     <br/>
     <input type='text' name='user' value=''/>
     <br/>

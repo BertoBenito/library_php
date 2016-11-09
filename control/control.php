@@ -44,13 +44,4 @@ switch ($opt) {
 
 }
 
-function endHtml()
-{
-  echo "
-  <footer>
-  </footer>
-  </body>
-  </html>";
-}
-
 ?>
